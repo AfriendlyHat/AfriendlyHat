@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AfriendlyHat
 - 👀 I’m interested in code and minecraft
-- 🌱 I’m currently trying to learn some backend
+- 🌱 I’m currently learning for school.
+-
 - 📫 There is noway to reach me
 
 <!---
